@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="281.4020" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-07-11T07:46:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Login to Mega" timestamp="2021-07-11T07:46:48" tests="3" file="C:\Mega\00_Login_test.js" time="50.3320" failures="0">
+    <testcase name="Login to Mega: Launch Mega URL page" time="12.5160" classname="Launch Mega URL page">
+    </testcase>
+    <testcase name="Login to Mega: Accept Cookies" time="7.1700" classname="Accept Cookies">
+    </testcase>
+    <testcase name="Login to Mega: Login" time="30.6460" classname="Login">
+    </testcase>
+  </testsuite>
+  <testsuite name="File Operations" timestamp="2021-07-11T07:47:40" tests="3" file="C:\Mega\01_FileOperations_test.js" time="95.4430" failures="0">
+    <testcase name="File Operations: Create a File" time="42.7720" classname="Create a File">
+    </testcase>
+    <testcase name="File Operations: Delete the File" time="28.7440" classname="Delete the File">
+    </testcase>
+    <testcase name="File Operations: Restore the File from Rubbish Bin" time="23.9270" classname="Restore the File from Rubbish Bin">
+    </testcase>
+  </testsuite>
+  <testsuite name="Linux Distributions" timestamp="2021-07-11T07:49:16" tests="1" file="C:\Mega\02_LinuxDistro_test.js" time="135.6270" failures="0">
+    <testcase name="Linux Distributions: Verify All Linux Distributions available" time="135.6270" classname="Verify All Linux Distributions available">
+    </testcase>
+  </testsuite>
+</testsuites>

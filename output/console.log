@@ -1,0 +1,18 @@
+
+[0m[0m
+[0m  Login to Mega[0m
+  [32m  √[0m[90m Launch Mega URL page[0m[31m (12516ms)[0m
+  [32m  √[0m[90m Accept Cookies[0m[31m (7170ms)[0m
+  [32m  √[0m[90m Login[0m[31m (30646ms)[0m
+
+[0m  File Operations[0m
+  [32m  √[0m[90m Create a File[0m[31m (42772ms)[0m
+  [32m  √[0m[90m Delete the File[0m[31m (28744ms)[0m
+  [32m  √[0m[90m Restore the File from Rubbish Bin[0m[31m (23927ms)[0m
+
+[0m  Linux Distributions[0m
+  [32m  √[0m[90m Verify All Linux Distributions available[0m[31m (135627ms)[0m
+
+
+[92m [0m[32m 7 passing[0m[90m (5m)[0m
+
